@@ -3,11 +3,11 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/9e/e1/44/9ee1440576efc4601e47a4c5aba69b66.gif">
 
-- 🔭 I’m currently working on **Network Management**
+- 🔭 I’m currently working on **Network Management Telecommunication Project**
 
 - 🌱 I’m currently learning **Django (Python Framework), DevOps, AWS, Kubernetes,**
 
-- 💬 Ask me about **RedHat Linux, Python, Shell Scripting, Front-end development, Automation, Networking**
+- 💬 Ask me about **RedHat Linux, Python, Shell Scripting, Automation, Networking**
 
 - 📫 How to reach me **mduzairan@gmail.com**
 
