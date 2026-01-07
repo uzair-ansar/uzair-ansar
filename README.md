@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammad Uzair Ansari</h1>
+<h1 align="center">Hi 👋, I'm Uzair Ansari</h1>
 <h3 align="center">
 Python Automation QA Engineer | Telecom (NetAct) | Manual + Automation Testing | DevOps
 </h3>
