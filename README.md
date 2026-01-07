@@ -10,6 +10,7 @@ src="https://i.pinimg.com/originals/9e/e1/44/9ee1440576efc4601e47a4c5aba69b66.gi
 - 🧪 Strong experience in **Python-based Automation & Manual Testing**
 - 🔄 Hands-on with **CI/CD & DevOps tools for test automation**
 - 🌱 Learning **AI-assisted test automation & intelligent agents**
+
 - 💬 Ask me about  
   **Python Automation, Manual Testing, NetAct, Linux (RHEL), Shell Scripting, Networking, DevOps**
 - 📫 Reach me at **mduzairan@gmail.com**
